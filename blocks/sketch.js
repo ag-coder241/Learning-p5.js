@@ -1,5 +1,5 @@
 let distMouse = 50;
-let size = 10;
+let size = 20;
 let blocks = [];
 let cols;
 let rows;
